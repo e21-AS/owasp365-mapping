@@ -5,7 +5,7 @@
 An employee accesses Microsoft 365 services using a weak password that has been reused across multiple platforms. The account is not protected by multi-factor authentication (MFA). An attacker obtains the password through a credential-stuffing attack and successfully logs in, gaining access to sensitive emails and SharePoint files.
 
 ### ⚠️ OWASP Risk
-**A07: Identification and Authentication Failures**
+**A07: Identification and Authentication Failures**  
 Weak or missing authentication mechanisms allow attackers to compromise accounts and access protected resources.
 
 ### 🔍 Microsoft 365 Component
