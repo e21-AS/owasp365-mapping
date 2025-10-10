@@ -4,7 +4,7 @@
 ### 🎯 Scenario
 An employee uses a personal laptop to access Microsoft 365 services. The device runs an outdated version of Microsoft Office that has not received recent security updates. Owing to missing patches, the system becomes vulnerable to known exploits targeting Office macros and legacy components.
 ### ⚠️ OWASP Risk
-**A06: Vulnerable and Outdated Components**
+**A06: Vulnerable and Outdated Components**  
 Failure to update software components exposes systems to known vulnerabilities that may be exploited by attackers.
 
 ### 🔍 Microsoft 365 Component
