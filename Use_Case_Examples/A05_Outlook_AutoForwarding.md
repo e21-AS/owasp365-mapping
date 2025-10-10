@@ -5,7 +5,7 @@
 A user creates an Outlook mailbox rule that automatically forwards all incoming emails to a personal Gmail account. The rule is neither reviewed nor restricted by administrators. Sensitive internal communications, including financial reports and client data, are continuously forwarded outside the organisation without detection.
 
 ### ⚠️ OWASP Risk
-**A05: Security Misconfiguration**
+**A05: Security Misconfiguration**  
 Security settings are left in insecure states or are misconfigured, allowing unintended data exposure or system behaviour.
 
 ### 🔍 Microsoft 365 Component
