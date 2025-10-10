@@ -5,7 +5,7 @@
 A user creates a Power Automate flow that collects data from a SharePoint list and sends it to an external service using an unapproved third-party connector. The connector bypasses internal validation, sending sensitive project data outside the organisation. No DLP policies or connector restrictions are in place.
 
 ### ⚠️ OWASP Risk
-**A08: Software and Data Integrity Failures**
+**A08: Software and Data Integrity Failures**  
 Use of untrusted or unverified components in workflows may allow data manipulation or leakage without proper validation.
 
 ### 🔍 Microsoft 365 Component
