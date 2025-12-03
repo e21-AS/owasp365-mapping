@@ -4,7 +4,7 @@
 
 ---
 
-# 🛡️ OWASP365 Mapping — Practical Use Cases for Microsoft 365 Security
+# 🛡️ OWASP365 Mapping - Practical Use Cases for Microsoft 365 Security
 
 A curated set of realistic, recruiter-oriented examples mapping the [OWASP Top 10](https://owasp.org/www-project-top-ten/) risks to Microsoft 365 services.  
 Each use case includes a scenario, impacted components, potential impact, mitigation strategies, and links to official Microsoft documentation.
@@ -29,13 +29,13 @@ This project is designed to:
 
 Each use case follows a consistent format:
 
-- **Scenario** — realistic, role-based context
-- **OWASP Risk** — mapped to OWASP Top 10 (2021)
-- **Microsoft 365 Component** — platform, feature, and documentation link
-- **Potential Impact** — business and technical consequences
-- **Mitigation Strategies** — actionable steps with Microsoft tooling
-- **Search Tips** — curated queries for official documentation
-- **Related Files** — cross-references to mapping and strategy docs
+- **Scenario** - realistic, role-based context
+- **OWASP Risk** - mapped to OWASP Top 10 (2021)
+- **Microsoft 365 Component** - platform, feature, and documentation link
+- **Potential Impact** - business and technical consequences
+- **Mitigation Strategies** - actionable steps with Microsoft tooling
+- **Search Tips** - curated queries for official documentation
+- **Related Files** - cross-references to mapping and strategy docs
 
 ---
 
